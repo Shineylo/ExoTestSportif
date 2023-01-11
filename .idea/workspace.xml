@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5348cc8-8c39-4581-8103-b7cb96d03590" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExoTestSportif.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basketteur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Calc/Calculatrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EnEquipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Equipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Golfeur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InvalidTailleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NotEnEquipeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sportif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeamSizeExceededException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/CalcTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/EquipeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/CalcTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CalcTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +78,18 @@
       <option name="presentableId" value="Default" />
       <updated>1669286671576</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exo Calc">
+      <created>1673431202685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673431202685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exo Calc" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exo Calc" />
   </component>
 </project>

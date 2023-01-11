@@ -56,6 +56,12 @@ public class CalcTest {
         assertEquals(1,rslt);
     }
 
+    @Test
+    void divisionEntiere_normalAvecNombreAVirgule(){
+        double rslt = calculatrice.division(3,2);
+
+        assertEquals(1,rslt);
+    }
 
     @Test
     void divisionEntiere_parZero(){
@@ -65,19 +71,20 @@ public class CalcTest {
         );
     }
 
+
     @Test
-    void divisionEntiere_egaleDouble(){
-        assertThrows(
-                IllegalArgumentException.class,
-                () -> {calculatrice.divisionEntiere(3,2);}
-        );
+    void modulo_normal(){
+        double rslt = calculatrice.modulo(2,2);
+
+        assertEquals(1,rslt);
     }
 
     @Test
     void modulo_parZero(){
         assertThrows(
                 IllegalArgumentException.class,
-                () -> {calculatrice.divisionEntiere(2,0);}
+                () -> {calculatrice.modulo(2,0);}
         );
     }
+
 }
